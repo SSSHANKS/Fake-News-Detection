@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+spacy
+gensim
+scikit-learn
+xgboost
+ydata_profiling
+scipy
