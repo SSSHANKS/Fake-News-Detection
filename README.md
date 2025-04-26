@@ -33,16 +33,11 @@ This repository contains a project focused on detecting fake news using machine 
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
-   cd fake-news-detection
-   ```
-2. Install required packages:
+1. Install required packages:
    ```bash
    pip install -r requirements.txt
    ```
-3. Open and run the `fake-news-detection.ipynb` notebook in Jupyter or any compatible environment.
+2. Open and run the `fake-news-detection.ipynb` notebook in Jupyter or any compatible environment.
 
 ## Results
 
