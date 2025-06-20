@@ -6,7 +6,6 @@ This repository contains a project focused on detecting fake news using machine 
 
 - **Data Processing**: Text cleaning, tokenization, removal of stop words, and lemmatization using NLTK and spaCy.
 - **Feature Engineering**: 
-  - Traditional TF-IDF approaches.
   - Word2Vec embeddings using Gensim.
 - **Modeling**:
   - Random Forest Classifier
